@@ -5,4 +5,6 @@ func main() {
 	println("Hello World testA")
 
 	println("Hello World testA work1")
+
+	println("Hello World testA work2")
 }
