@@ -7,4 +7,7 @@ func main() {
 
 	println(" testB 작업 1")
 	println(" testB work2")
+
+	println(" testC work1")
+	println(" testC work2")
 }
