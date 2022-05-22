@@ -6,4 +6,5 @@ func main() {
 	println("Hello World testB를 생성")
 
 	println(" testB 작업 1")
+	println(" testB work2")
 }
